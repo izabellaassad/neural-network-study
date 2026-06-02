@@ -1,0 +1,38 @@
+# Dependências
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Cache de ferramentas
+.npm
+.eslintcache
+.cache/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Modelos salvos do TensorFlow (descomente se for treinar e salvar modelos)
+# *.bin
+# model.json
+
+# Outputs e builds
+dist/
+build/
+coverage/
