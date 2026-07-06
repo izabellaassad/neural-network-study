@@ -1,4 +1,4 @@
-# exemplo-00 — Rede Neural de Classificação com TensorFlow.js
+# Rede Neural de Classificação com TensorFlow.js
 
 Um exemplo didático de rede neural construída com [TensorFlow.js para Node](https://www.tensorflow.org/js) que classifica pessoas em três categorias (**premium**, **medium**, **basic**) a partir de três características: idade, cor favorita e localização.
 
